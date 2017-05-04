@@ -1,0 +1,9 @@
+C:\Users\niri\Documents\PROGRAMACION\serpientes_escaleras\serpientes_escaleras\bin\Debug\serpientes_escaleras.exe.config
+C:\Users\niri\Documents\PROGRAMACION\serpientes_escaleras\serpientes_escaleras\bin\Debug\serpientes_escaleras.exe
+C:\Users\niri\Documents\PROGRAMACION\serpientes_escaleras\serpientes_escaleras\bin\Debug\serpientes_escaleras.pdb
+C:\Users\niri\Documents\PROGRAMACION\serpientes_escaleras\serpientes_escaleras\obj\Debug\serpientes_escaleras.csprojResolveAssemblyReference.cache
+C:\Users\niri\Documents\PROGRAMACION\serpientes_escaleras\serpientes_escaleras\obj\Debug\serpientes_escaleras.Form1.resources
+C:\Users\niri\Documents\PROGRAMACION\serpientes_escaleras\serpientes_escaleras\obj\Debug\serpientes_escaleras.Properties.Resources.resources
+C:\Users\niri\Documents\PROGRAMACION\serpientes_escaleras\serpientes_escaleras\obj\Debug\serpientes_escaleras.csproj.GenerateResource.Cache
+C:\Users\niri\Documents\PROGRAMACION\serpientes_escaleras\serpientes_escaleras\obj\Debug\serpientes_escaleras.exe
+C:\Users\niri\Documents\PROGRAMACION\serpientes_escaleras\serpientes_escaleras\obj\Debug\serpientes_escaleras.pdb
